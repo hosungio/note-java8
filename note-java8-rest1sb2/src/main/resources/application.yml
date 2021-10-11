@@ -4,4 +4,6 @@ spring:
       indent-output: true 
 server:
   port: 25000
+  error:
+    include-message: always
  
